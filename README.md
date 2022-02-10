@@ -2,13 +2,12 @@
 #### This is a Git-Search App, 13/2/2022
 #### By **EMMANUEL KOECH**
 ## Description
-
+This is a website where users may enter a GitHub username into a form, submit it and see names and descriptions of that person's public repositories. A person can also look for repositories
 ## Setup/Installation Requirements
 * Have a browser(Google Chrome)
 
 * Have visual Studio Code
 
-* Search using the form at the top
 
 ## link
 * 
