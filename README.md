@@ -1,6 +1,6 @@
 # Git-Search App Project
-#### This is a Git-Search App, 29/08/2021
-#### By **SHALIN RONO**
+#### This is a Git-Search App, 13/2/2022
+#### By **EMMANUEL KOECH**
 ## Description
 This is a git hub search engine that enables a user to see first my profile and be able to search for other github users and be able to see their repositories and number of followers and following and be able to see the whole profile of that person.
 ## Setup/Installation Requirements
@@ -27,11 +27,11 @@ CSS
 ## Support and contact details
 In case of any issues or questions, feel free to contact me using: 
 
-E-MAIL ADDRESS: ronoshalin@gmail.com
+E-MAIL ADDRESS: gmail@koechemmanuel2002.com
 
-PHONE:+254701338496
+PHONE:+254713598794
 ### **License**
 https://choosealicense.com/licenses/mit/#
 
 # **Copyright**
-Copyright (c) {2021} **SHALIN RONO**
+Copyright (c) {2021} **EMMANUEL KOECH**
