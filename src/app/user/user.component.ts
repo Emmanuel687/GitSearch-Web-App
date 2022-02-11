@@ -30,7 +30,7 @@ export class UserComponent implements OnInit {
    }
 
   ngOnInit(): void {
-    this.searchUser('emmanuel687');
+    this.searchUser("Emmanuel687");
   }
 
 }

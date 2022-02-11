@@ -1,16 +1,16 @@
 # Git-Search App Project
-#### This is a Git-Search App, 13/2/2022
-#### By **EMMANUEL KOECH**
+#### This is a Git-Search App, 29/08/2021
+#### By **SHALIN RONO**
 ## Description
-This is a website where users may enter a GitHub username into a form, submit it and see names and descriptions of that person's public repositories. A person can also look for repositories
+This is a git hub search engine that enables a user to see first my profile and be able to search for other github users and be able to see their repositories and number of followers and following and be able to see the whole profile of that person.
 ## Setup/Installation Requirements
 * Have a browser(Google Chrome)
 
 * Have visual Studio Code
 
+* Search using the form at the top
 
-## link
-* 
+* If you want to clone this project, got to this link  https://hardcore-albattani-e886d0.netlify.app/. Paste this url link to your Visual Studio Code and on your terminal , type : git clone(paste URL)
 
 
 ## Known Bugs
@@ -27,11 +27,11 @@ CSS
 ## Support and contact details
 In case of any issues or questions, feel free to contact me using: 
 
-E-MAIL ADDRESS: gmail@koechemmanuel2002.com
+E-MAIL ADDRESS: ronoshalin@gmail.com
 
-PHONE:+254713598794
+PHONE:+254701338496
 ### **License**
 https://choosealicense.com/licenses/mit/#
 
 # **Copyright**
-Copyright (c) {2021} **EMMANUEL KOECH**
+Copyright (c) {2021} **SHALIN RONO**
